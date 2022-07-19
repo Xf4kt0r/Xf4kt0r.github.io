@@ -12,10 +12,6 @@ url: "Xf4kt0r.github.io" # the base hostname & protocol for your site
 #twitter_username: tareqdandachi
 #github_username:  tareqdandachi
 
-# Required plugins for the theme to work properly
-plugins:
-  - jekyll-remote-theme
-  - jemoji
 
 # Including jekyll-shell-theme using the jekyll-remote-theme plugin
 remote_theme: "tareqdandachi/jekyll-shell-theme"
