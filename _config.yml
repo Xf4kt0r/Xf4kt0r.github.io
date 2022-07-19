@@ -10,7 +10,7 @@ title: The xf4kt0r ScratchPad
 email: email@domain.xyz
 description: >- # this means to ignore newlines until "baseurl:"
   My scratch to write about things cyber related!
-baseurl: "/blog" # the subpath of your site
+baseurl: "/README.md" # the subpath of your site
 url: "Xf4kt0r.github.io" # the base hostname & protocol for your site
 #twitter_username: tareqdandachi
 #github_username:  tareqdandachi
