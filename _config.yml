@@ -1,33 +1,71 @@
 #theme: jekyll-theme-hacker
-# This is an example of what an '_config.yml' file should look like
-# when using jekyll-shell-theme. You should use this as a guide or
-# just copy+paste it and modify some of the content to begin with.
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# Including jekyll-shell-theme using the jekyll-remote-theme plugin
-remote_theme: "tareqdandachi/jekyll-shell-theme"
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: jekyll-theme-potato-hacker
+author: "<your_name>"
+email: "<your@mail>"
+description: A simple Jekyll theme based on potatoes and hackers
+baseurl: "/jekyll-theme-potato-hacker" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-title: The xf4kt0r ScratchPad
-email: email@domain.xyz
-description: >- # this means to ignore newlines until "baseurl:"
-  My scratch to write about things cyber related!
-baseurl: "/README.md" # the subpath of your site
-url: "Xf4kt0r.github.io" # the base hostname & protocol for your site
-#twitter_username: tareqdandachi
-#github_username:  tareqdandachi
+# ------------------------------------------------------------------------------
+# Custom settings
+# ------------------------------------------------------------------------------
+# Useful links
+github_username: "<github_username>"
+facebook_username: "<facebook_username>"
+twitter_username: "<twitter_username>"
+linkedin_id: "<linkedin_id>"
 
-# Required plugins for the theme to work properly
-plugins:
-  - jekyll-remote-theme
-  - jemoji
+# Theme
+# theme: jekyll-theme-potato-hacker                 # Uncomment this
+remote_theme: luxedo/jekyll-theme-potato-hacker   # Or this
+theme_repository: "https://github.com/luxedo/jekyll-theme-potato-hacker"
+theme_base: "dark"       # Theme palette (light | dark)
+theme_switch: on         # Show color switch (on | off)
+
+# Extra settings
+blog: on                 # Show blog tag and post list (on | off)
+avatar: on               # Show avatar (on | off)
+avatar_image: "assets/img/avatar.jpg"
+avatar_description: "My name is Popotato and I'm a HACKER."
+highlighter_theme: gruvbox  # Theme of the syntax_highlighter [base16 |
+                            # colorful | github | gruvbox | molokai |
+                            # monokai | pastie | thankful_eyes | tulip ]
+toolbar_priority:        # Order of the items in the toolbar (except for blog and home)
+  - dropdown2
+  - About
+  - dropdown1
+
+# Collections
+collections:
+  dropdown:
+    output: true
+  items:
+    output: true
+# ------------------------------------------------------------------------------
 
 
-
-highlighter: rouge #selecting the highlighter, default is rouge
-
-header_pages:
-  - index.md
-  - about.md
-  - a-third-page.md
-
-# controls how big the shell and font looks
-font-size: small # options: [small] or [large]
+# Build settings
+excerpt_separator: "<!--more-->"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+exclude:
+  - Gemfile
+  - Gemfile.lock
