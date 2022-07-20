@@ -1,15 +1,31 @@
 # My Gists
 This is a list of the gists I have created.  
 
-<br />
+<br />  
+
+## Love My Oneliners  
+
+---  
+
 <table>
     <tr>
         <td>
-[Powershell Oneliners](https://gist.github.com/Xf4kt0r/d7baf2c8546e9831ae07ac536ce891f6 "Powershell Oneliners")  
+            <a href="https://gist.github.com/Xf4kt0r/d7baf2c8546e9831ae07ac536ce891f6" title="Powershell Oneliners">Powershell Oneliners</a>
         </td>
         <td>
-[Bash Oneliners](https://gist.github.com/Xf4kt0r/19c616df2d01c8afc627d43c9751de17 "Powershell Oneliners")  
+            <a href="https://gist.github.com/Xf4kt0r/19c616df2d01c8afc627d43c9751de17" title="Bash Oneliners">Bash Oneliners</a>
+        </td>
+        <td>
+            <a href="https://gist.github.com/Xf4kt0r/ad8955c5526c85bc98d1d95142cb7e7d" title="Python Oneliners">Python Oneliners</a>
         </td>
     </tr>
-</table>
+</table>  
+
+<br />
+
+## A Little More Than One Line  
+
+---
+
+[Shodan Scraping](https://gist.github.com/Xf4kt0r/bff51d71c1fcc377a81f7047088dc9c8 "Shodan Scraping")
 
