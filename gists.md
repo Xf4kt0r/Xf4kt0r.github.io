@@ -27,5 +27,10 @@ This is a list of the gists I have created.
 
 ---
 
-[Shodan Scraping](https://gist.github.com/Xf4kt0r/bff51d71c1fcc377a81f7047088dc9c8 "Shodan Scraping")
-
+<table>
+    <tr>
+        <td>
+            <a href="https://gist.github.com/Xf4kt0r/bff51d71c1fcc377a81f7047088dc9c8" title="Shodan Scraping" target="_blank">Shodan Scraping</a>
+        </td>
+    </tr>
+</table>
