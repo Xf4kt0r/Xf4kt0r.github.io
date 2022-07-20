@@ -12,3 +12,5 @@ I am an aspiring Offensive Security professional with an extensive background in
 [My Gists](/gists "My Gists")  
 
 [TryHackMe](/TryHackMe/tryhackme "TryHackMe")  
+
+[TheBlog](/blog/TheBlog "TheBlog")  
