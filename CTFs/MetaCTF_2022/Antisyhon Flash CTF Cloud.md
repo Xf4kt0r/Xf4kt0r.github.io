@@ -18,7 +18,9 @@ And then bingo, that last attempt returned an xml document will all of the photo
 
 In the mean time, I just used some bash scripting to pull the images (not the cleanest method) and started browsing them. Yeah, I didn't iterate over the years. I had planned to do that manually.
 
-`for y in {01..12}; do for x in {01..31}; do curl https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/$y/$x.jpg -o $y$x.png; done; done`
+```
+for y in {01..12}; do for x in {01..31}; do curl https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/$y/$x.jpg -o $y$x.png; done; done
+```
 
 Started browsing the png's and then, there it was, https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/09/05.jpg
 ![0905](https://user-images.githubusercontent.com/55144630/171773258-047b7822-ec16-4088-9075-5ed67af2ecaa.png)
