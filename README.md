@@ -3,4 +3,4 @@ My scratch to write about things cyber related!
 
 
 
-Some [linked text](CTFs/MetaCTF: Antisyhon Flash CTF Cloud.md "Title").
+Some [linked text](MetaCTF: Antisyhon Flash CTF Cloud.md "Title").
