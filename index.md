@@ -1,7 +1,8 @@
 # **The xf4kt0r ScratchPad**
 
 ## **About**
-My scratch to write about things cyber related!  
+My scratch to write about things cyber related! \
+I am an aspiring Offensive Security professional with an extensive background in...fun! 
 
 <br />
 <br />
