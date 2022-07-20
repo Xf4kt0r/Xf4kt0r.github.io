@@ -8,5 +8,7 @@ I am an aspiring Offensive Security professional with an extensive background in
 
 ## **List of Things**
 [CTF Write Ups](/CTFs/CTF%20Write%20Ups "CTF Write Ups")  
-[My Gists](/gists "My Gists")
-[TryHackMe](/TryHackMe/tryhackme "TryHackMe")
+
+[My Gists](/gists "My Gists")  
+
+[TryHackMe](/TryHackMe/tryhackme "TryHackMe")  
