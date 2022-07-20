@@ -10,13 +10,13 @@ This is a list of the gists I have created.
 <table>
     <tr>
         <td>
-            <a href="https://gist.github.com/Xf4kt0r/d7baf2c8546e9831ae07ac536ce891f6" title="Powershell Oneliners">Powershell Oneliners</a>
+            <a href="https://gist.github.com/Xf4kt0r/d7baf2c8546e9831ae07ac536ce891f6" title="Powershell Oneliners" target="_blank">Powershell Oneliners</a>
         </td>
         <td>
-            <a href="https://gist.github.com/Xf4kt0r/19c616df2d01c8afc627d43c9751de17" title="Bash Oneliners">Bash Oneliners</a>
+            <a href="https://gist.github.com/Xf4kt0r/19c616df2d01c8afc627d43c9751de17" title="Bash Oneliners" target="_blank">Bash Oneliners</a>
         </td>
         <td>
-            <a href="https://gist.github.com/Xf4kt0r/ad8955c5526c85bc98d1d95142cb7e7d" title="Python Oneliners">Python Oneliners</a>
+            <a href="https://gist.github.com/Xf4kt0r/ad8955c5526c85bc98d1d95142cb7e7d" title="Python Oneliners" target="_blank">Python Oneliners</a>
         </td>
     </tr>
 </table>  
