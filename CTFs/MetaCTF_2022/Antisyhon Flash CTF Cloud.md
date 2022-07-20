@@ -22,7 +22,8 @@ In the mean time, I just used some bash scripting to pull the images (not the cl
 for y in {01..12}; do for x in {01..31}; do curl https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/$y/$x.jpg -o $y$x.png; done; done
 ```
 
-Started browsing the png's and then, there it was, https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/09/05.jpg
+Started browsing the png's and then, there it was, **`https://prod-cdn-user-imgs.s3.us-east-1.amazonaws.com/ksmith3892/2019/09/05.jpg`**  
+
 ![0905](https://user-images.githubusercontent.com/55144630/171773258-047b7822-ec16-4088-9075-5ed67af2ecaa.png)
 
 Not the cleanest and most efficient but it got the job done.
