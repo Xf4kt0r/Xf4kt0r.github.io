@@ -3,4 +3,4 @@ My scratch to write about things cyber related!
 
 
 
-Some [linked text]("/CTFs/MetaCTF: Antisyhon Flash.md CTF Cloud" "Title").
+Some [linked text]("CTFs/MetaCTF: Antisyhon Flash.md CTF Cloud" "Title").
