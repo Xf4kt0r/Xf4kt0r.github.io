@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
 production_url : https://xf4kt0r.github.io/
 markdown: kramdown
+has_children: true
