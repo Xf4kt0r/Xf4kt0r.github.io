@@ -6,18 +6,3 @@ markdown: kramdown
 has_children: true
 plugins:
 - jekyll-remote-theme
-
-
-folders:
-- title: The Xf4kt0r
-  folderitems:
-
-  - title: Homepage
-    jurl: /index
-    hurl: https://github.com/Xf4kt0r/Xf4kt0r.github.io/blob/main/index
-    ref: home
-
-  - title: CTFs
-    jurl: /CTFs/CTF%20Write%20Ups
-    hurl: https://github.com/Xf4kt0r/Xf4kt0r.github.io/blob/main/CTFs/CTF%20Write%20Ups
-    ref: ctfs
