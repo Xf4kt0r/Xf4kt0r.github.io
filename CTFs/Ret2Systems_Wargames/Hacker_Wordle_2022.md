@@ -26,18 +26,61 @@
 
 <br />
 
-### 4. I did some python xor'ing and messing around with characters to see how they were ending up on the stack.  
+### 4. I did some python xor'ing and messing around with characters to see how they were ending up on the stack.    
+
+```
+>>> chr(0x18 ^ 0x29)
+'1'
+>>> chr(0x1c ^ 0x29)
+'5'
+>>> chr(0x1d ^ 0x29)
+'4'
+>>> chr(0x1a ^ 0x29)
+'3'
+>>> chr(0x1b ^ 0x29)
+'2'
+>>> chr(0x6d ^ 0x29)
+'D'
+>>> chr(0x19 ^ 0x29)
+'0'
+>>> chr(0x6f ^ 0x29)
+'F'
+>>> chr(0x1c ^ 0x29)
+'5'
+>>> chr(0x1d ^ 0x29)
+'4'
+>>> chr(0x7f ^ 0x29)
+'V'
+>>> chr(0xff ^ 0x29)
+'Ö'
+>>> chr(0x5e ^ 0x29)
+'w'
+>>> chr(0x6e ^ 0x29)
+'G'
+>>> chr(0x40 ^ 0x29)
+'i'
+>>> chr(0x00 ^ 0x29)
+')'
+>>> chr(0x19 ^ 0x29)
+'0'
+>>> chr(0x40 ^ 0x29)
+'i'
+>>> chr(0x0d ^ 0x29)
+'$'
+>>> chr(0xd2 ^ 0x29)
+'û'
+```
 
 <br />
 
-### 5. 
+### 5. I had previously tried sending non alphanumeric charcters which worked so I knew I could likely send others get the correct address results for the `ret2system` function.  
 
+![0906](/assets/img/ret2_wordle_xoring.PNG)
 
+<br />
 
+### 6. Now it came down to shifing these charcters to get them to fall in place to pop the shell.  
 
+### FINAL SOLUTION FOR THE WIN!  
 
-
-
-### FINAL solution for the win.  
-
-![0905](/assets/img/ret2_wordle_solve.PNG)
+![0907](/assets/img/ret2_wordle_solve.PNG)
