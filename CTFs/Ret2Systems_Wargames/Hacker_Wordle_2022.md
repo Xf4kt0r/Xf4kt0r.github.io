@@ -75,7 +75,7 @@
 
 ### 5. I had previously tried sending non alphanumeric charcters which worked so I knew I could likely send others get the correct address results for the `ret2system` function.  
 
-![0906](/assets/img/ret2_wordle_xoring.PNG)
+![ret2_wordle_xoring.PNG](/assets/img/ret2_wordle_xoring.PNG "RET2 Wordle Xor'ing")
 
 <br />
 
@@ -83,4 +83,4 @@
 
 ### FINAL SOLUTION FOR THE WIN!  
 
-![0907](/assets/img/ret2_wordle_solve.PNG)
+![ret2_wordle_solve.PNG](/assets/img/ret2_wordle_solve.PNG "RET2 Wordle Solve")
