@@ -10,7 +10,9 @@
 
 ### I am currently enrolled in the ondemand SANS MGT 512. There is leadership simulation game called Cyber 42 for those that are unfamiliar with the course material. During the first day, the instructor introduces the Cyber 42 platform and make an analogy to the Choose Your Own Adventure books.  
 
-<img src=https://Xf4kt0r.github.io/assets/img/choose_your_own_adventure.jpeg width=700px alt="choose_your_own_adventure.png" title="CYOA Books">
+<br />
+
+![choose_your_own_adventure.jpeg](/assets/img/choose_your_own_adventure.jpeg "CYOA Books")
 
 <br />
 
@@ -24,11 +26,9 @@
 
 ### I started thinking more about this concept and realized this is something I have continued to do often throughout life. The most easily related example is when I play character development video games. I am notorious for getting to significant decision points of character advancement where I will create a new save before I continue. This provides me the opportunity to come back to that save and make a different decision in order to change the follow on play and outcome of the game.  
 
-<html>
-<img src=https://Xf4kt0r.github.io/assets/img/cyberpunk.jpg width=400px alt="cyberpunk.png" title="Cyberpunk 2077"> 
-<img src=https://Xf4kt0r.github.io/assets/img/fallout3.jpg width=400px alt="fallout3.png" title="Fallout 3"> 
-<img src=https://Xf4kt0r.github.io/assets/img/dragonage.jpg width=200px alt="dragonage.png" title="Dragon Age">
-</html>
+<br />
+
+![Cyberpunk 2077](/assets/img/cyberpunk.jpg "Cyberpunk 2077") ![Fallout 3](/assets/img/fallout3.jpg) ![Dragon Age](/assets/img/dragonage.jpg)
 
 <br />
 
