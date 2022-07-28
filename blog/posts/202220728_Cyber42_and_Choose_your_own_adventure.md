@@ -28,7 +28,7 @@
 
 <br />
 
-![Cyberpunk 2077](/assets/img/cyberpunk_small.jpg "Cyberpunk 2077") ![Fallout 3](/assets/img/fallout3.jpg) ![Dragon Age](/assets/img/dragonage_small.jpg)
+![Cyberpunk 2077](/assets/img/cyberpunk_small.jpg "Cyberpunk 2077") ![Fallout 3](/assets/img/fallout3_small.jpg) ![Dragon Age](/assets/img/dragonage_small.jpg)
 
 <br />
 
