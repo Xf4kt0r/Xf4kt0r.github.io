@@ -12,7 +12,7 @@
 
 <br />
 
-![choose_your_own_adventure.jpeg](/assets/img/choose_your_own_adventure.jpeg "CYOA Books")
+![choose_your_own_adventure.jpg](/assets/img/choose_your_own_adventure_small.jpg "CYOA Books")
 
 <br />
 
@@ -28,7 +28,7 @@
 
 <br />
 
-![Cyberpunk 2077](/assets/img/cyberpunk.jpg "Cyberpunk 2077") ![Fallout 3](/assets/img/fallout3.jpg) ![Dragon Age](/assets/img/dragonage.jpg)
+![Cyberpunk 2077](/assets/img/cyberpunk_small.jpg "Cyberpunk 2077") ![Fallout 3](/assets/img/fallout3.jpg) ![Dragon Age](/assets/img/dragonage_small.jpg)
 
 <br />
 
