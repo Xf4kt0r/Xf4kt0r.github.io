@@ -12,7 +12,7 @@
 
 <br />
 
-![choose_your_own_adventure.jpeg](/assets/img/choose_your_own_adventure.jpeg "CYOA Books")
+![choose_your_own_adventure.jpeg](/assets/img/choose_your_own_adventure.jpeg "CYOA Books"|width=100px)
 
 <br />
 
