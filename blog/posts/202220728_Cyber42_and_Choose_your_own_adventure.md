@@ -24,9 +24,11 @@
 
 ### I started thinking more about this concept and realized this is something I have continued to do often throughout life. The most easily related example is when I play character development video games. I am notorious for getting to significant decision points of character advancement where I will create a new save before I continue. This provides me the opportunity to come back to that save and make a different decision in order to change the follow on play and outcome of the game.  
 
+<html>
 <img src=https://Xf4kt0r.github.io/assets/img/cyberpunk.jpg width=400px alt="cyberpunk.png" title="Cyberpunk 2077"> 
 <img src=https://Xf4kt0r.github.io/assets/img/fallout3.jpg width=400px alt="fallout3.png" title="Fallout 3"> 
 <img src=https://Xf4kt0r.github.io/assets/img/dragonage.jpg width=200px alt="dragonage.png" title="Dragon Age">
+</html>
 
 <br />
 
