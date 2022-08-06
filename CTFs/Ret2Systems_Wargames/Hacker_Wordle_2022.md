@@ -83,4 +83,4 @@
 
 ### FINAL SOLUTION FOR THE WIN! <a herf="/assets/code/ret2_wordle_exploit.py" target="_blank">The Code</a>  
 
-![ret2_wordle_solve.PNG](/assets/img/ret2_wordle_solve.PNG "RET2 Wordle Solve")
+![ret2_wordle_solve.PNG](/assets/img/ret2_wordle_solve.PNG "RET2 Wordle Solve")  
